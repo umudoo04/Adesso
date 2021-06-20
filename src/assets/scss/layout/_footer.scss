@@ -1,0 +1,6 @@
+.footer__wrapper{
+  height: 5rem;
+  background-color: $saltpan;
+  @extend .fixed-bottom;
+  @extend .w-100
+} 
